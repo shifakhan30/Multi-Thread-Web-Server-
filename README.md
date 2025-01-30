@@ -1,5 +1,4 @@
 # Multi-threaded Web Server
-Course Project "Multithreaded-Web-Server" 
 
 # Requirements
 1. gcc compiler | gcc version 9.4.0 (Ubuntu 9.4.0-1ubuntu1~20.04.1) 
